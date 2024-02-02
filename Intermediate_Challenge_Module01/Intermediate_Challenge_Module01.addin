@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Intermediate_Challenge_Module01 - Command 1</Text>
+    <Description>Some description for Intermediate_Challenge_Module01</Description>
+    <Assembly>Intermediate_Challenge_Module01.dll</Assembly>
+    <FullClassName>Intermediate_Challenge_Module01.Command1</FullClassName>
+    <ClientId>5088b8f9-d5bb-4c8f-8aed-108f008767f3</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Intermediate_Challenge_Module01 - Command 2</Text>
+    <Description>Some description for Intermediate_Challenge_Module01</Description>
+    <Assembly>Intermediate_Challenge_Module01.dll</Assembly>
+    <FullClassName>Intermediate_Challenge_Module01.Command2</FullClassName>
+    <ClientId>028d2554-4006-4df5-8e5f-3ca899ef93c9</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Intermediate_Challenge_Module01</Name>
+    <Assembly>Intermediate_Challenge_Module01.dll</Assembly>
+    <FullClassName>Intermediate_Challenge_Module01.App</FullClassName>
+    <ClientId>2ea90041-1e44-4fec-a4b1-4df57195d157</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
